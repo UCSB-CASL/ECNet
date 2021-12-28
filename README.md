@@ -1,5 +1,4 @@
-# ECNet
-### Error-correcting neural network for semi-Lagrangian advection in the level-set method
+# Error-correcting neural network for semi-Lagrangian advection in the level-set method
 
 ### Abstract
 
@@ -19,4 +18,4 @@ We include the following files:
 
 ### Contact
 
-Please refer your questions to [this email](mailto:lal@cs.ucsb.edu).
+Please forward your questions to [this email](mailto:lal@cs.ucsb.edu).
